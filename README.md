@@ -15,6 +15,10 @@
 
 The public applications provide local project workspaces, API clients, and desktop source. They are independent Roseram projects. Consult each repository's license and upstream notices.
 
+## 📚 Product review knowledge library
+
+Explore [1,289 source-led product reviews and buyer guides](https://github.com/roseramintelligence/roseram-product-reviews), with an alphabetical index and links to the corresponding Roseram reviews.
+
 ## Developer experience
 
 - Work with the Roseram developer API through supported clients.
